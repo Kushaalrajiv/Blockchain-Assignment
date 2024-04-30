@@ -54,12 +54,6 @@ npx hardhat node
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
 
-## Authors
-
-Lalith Raj 
-
-[@lalithrajrayappa@gmail.com]
-
 ## License
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
